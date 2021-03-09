@@ -20,10 +20,6 @@ Instructions
 
 Solution:
 
-Used one of my previous Maven project to solve Publicis exercise. Project and project configurations details were in ReadMe file.
-
-For Publicis exercise -
-
 Main class - FindEnglishWords.java under Test package - com.mytest.testpackage
    -- Created a method to generate 3,4 and 5 character words from a given String
    -- This method also verifies the generated word is in dictionary file
